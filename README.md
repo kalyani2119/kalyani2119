@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 <!---![Visitors](https://api.visitorbadge.io/api/visitors?path=kalyani2119&label=VISITORS&countColor=%23263759)--->
 <!---[![Visitors](https://api.visitorbadge.io/api/visitors?path=kalyani2119&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=kalyani2119)--->
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<kalyani2119>&theme=<THEME_NAME>" />
