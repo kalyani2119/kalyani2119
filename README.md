@@ -4,7 +4,7 @@ kalyani2119/kalyani2119 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<h3 align="center">Embedded engineer</h3>
+<h3 align="center">Embedded engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyani2119&label=Profile%20views&color=0e75b6&style=flat" alt="kalyani2119" /> </p>
 
