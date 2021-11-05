@@ -3,7 +3,7 @@
 <head>
 <style>
 body {
-  background-image: url("paper.gif");
+  background-image: url("download(1).png");
 }
 </style>
 </head>
