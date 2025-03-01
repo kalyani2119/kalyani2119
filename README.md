@@ -1,5 +1,5 @@
 <h1> Hi There!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> i am Kalyani S </h1>
-<p align='center'>
+<p align='justify'>
   <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 <h2>I’m passionate about learning and understanding the communication of machines.I enjoy working with C programming, Verilog and Scripting,  exploring how these tools enable the design and control of hardware and systems. Whether it's coding, debugging, or optimizing, I’m always excited to dive into the technical challenges and learn something new along the way.
 
