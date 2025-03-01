@@ -1,8 +1,8 @@
 <h1> Hi There!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> i am Kalyani S </h1>
 <p align='justify'>
   <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-<h2>I’m passionate about learning and understanding the communication of machines.I enjoy working with C programming, Verilog and Scripting,  exploring how these tools enable the design and control of hardware and systems. Whether it's coding, debugging, or optimizing, I’m always excited to dive into the technical challenges and learn something new along the way.
-
+<p align = 'justify'> <h2>I’m passionate about learning and understanding the communication of machines.I enjoy working with C programming, Verilog and Scripting,  exploring how these tools enable the design and control of hardware and systems. Whether it's coding, debugging, or optimizing, I’m always excited to dive into the technical challenges and learn something new along the way.
+</h2></p>
 In my spare time, I keep painting and drawing. I am National Artist as well, these creative practices are an important part of who I am.I find that the creativity involved in art provides a refreshing counterpoint to the logic-driven world of programming design.Both passions help me approach problems from different angles and keep me engaged in continuous growth.</h2>
 
 <!---kalyani2119/kalyani2119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
