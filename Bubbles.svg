@@ -89,6 +89,9 @@
           .container {
             animation: none;
           }
+        .hi {
+            animation: none;
+          }
         }
       </style>
 
