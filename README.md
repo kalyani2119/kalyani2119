@@ -13,30 +13,13 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kalyani2119&compact=True"/>
 </a>--->
+Click [here](https://your-username.github.io/your-repository-name/bubbles.html)
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=kalyani2119&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyani2119&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 <p align="left"> 
  <img src ="https://komarev.com/ghpvc/?username=kalyani2119">
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Use the raw GitHub URL for the stylesheet -->
-  <link rel="stylesheet" href="https://raw.githubusercontent.com/kalyani2119/kalyani2119/main/Stylesheet.css">
-</head>
-<body>
-  <div class="bubble-container">
-    <div class="bubble"></div>
-    <div class="bubble"></div>
-    <div class="bubble"></div>
-    <div class="bubble"></div>
-    <div class="bubble"></div>
-  </div>
-</body>
-</html>
 
 
 
