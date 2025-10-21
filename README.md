@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@kalyani2119&compact=True"/>
 </a>--->
-Click [here](https://your-username.github.io/your-repository-name/bubbles.html)
+Click [here](https://github.com/kalyani2119/kalyani2119/blob/main/bubbles.html)
 
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=kalyani2119&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
