@@ -24,7 +24,8 @@ You can click the Preview link to take a look at your changes.
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://github.com/kalyani2119/kalyani2119/blob/main/Stylesheet.css">
+  <!-- Use the raw GitHub URL for the stylesheet -->
+  <link rel="stylesheet" href="https://raw.githubusercontent.com/kalyani2119/kalyani2119/main/Stylesheet.css">
 </head>
 <body>
   <div class="bubble-container">
@@ -36,5 +37,6 @@ You can click the Preview link to take a look at your changes.
   </div>
 </body>
 </html>
+
 
 
