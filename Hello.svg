@@ -62,5 +62,12 @@
         <h1>Hi there !<div class="hi">👋 </div>I'm Kalyani S</h1>
       </div>
     </div>
+    <div class="bubble-container">
+    <div class="bubble"></div>
+    <div class="bubble"></div>
+    <div class="bubble"></div>
+    <div class="bubble"></div>
+    <div class="bubble"></div>
+  </div>
   </foreignObject>
 </svg>
