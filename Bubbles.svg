@@ -119,10 +119,12 @@
             animation: none;
           }
         }
-      </style>
+        </style>
 
    <div class="container">
         <h1>Hi there !<div class="hi">👋 </div>I'm Kalyani S</h1>
+<h4>I’m passionate about learning and understanding the communication of machines 📺.I enjoy working with C programming, Verilog and Scripting,  exploring how these tools enable the design and control of hardware and systems. Whether it's coding, debugging, or optimizing, I’m always excited to dive into the technical challenges and learn something new along the way.In my spare time, I keep painting and drawing.Well...🖌️🎨I am a National Artist, these creative practices are an important part of who I am.I find that the creativity involved in art provides a refreshing counterpoint to the logic-driven world of programming design🌈🧮.Both passions help me approach problems from different angles and keep me engaged in continuous growth 📈.</h4>
+
       </div> 
   <div class="bubble-container">
     <div class="bubble"></div>
