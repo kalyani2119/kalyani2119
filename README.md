@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="stylesheet.css">
 </head>
 <body>
   <div class="bubble-container">
