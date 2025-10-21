@@ -19,3 +19,22 @@ You can click the Preview link to take a look at your changes.
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kalyani2119&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 <p align="left"> 
  <img src ="https://komarev.com/ghpvc/?username=kalyani2119">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="bubble-container">
+    <div class="bubble"></div>
+    <div class="bubble"></div>
+    <div class="bubble"></div>
+    <div class="bubble"></div>
+    <div class="bubble"></div>
+  </div>
+</body>
+</html>
+
+
